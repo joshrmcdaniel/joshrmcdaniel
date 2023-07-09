@@ -25,3 +25,6 @@ Everything I've used professional and personal wise
 | NoSQL | Intermediate |
 | System Integration | Intermediate |
 | REST APIs | Advanced |
+
+## Certifications
+- [Terraform Associate (003)](https://www.credly.com/badges/89966634-714f-4a59-b780-1f3afe1afc56)
